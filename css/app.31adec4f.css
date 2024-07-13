@@ -1,0 +1,1 @@
+.btn{display:flex;width:100%;justify-content:space-between}video{border-radius:50%;width:100%}.video_block{position:relative;width:70%;padding:10px;margin:0 auto}.video_block_play{position:absolute;left:calc(50% - 50px);top:calc(50% - 50px);width:100px;height:100px;opacity:.5;cursor:pointer}
