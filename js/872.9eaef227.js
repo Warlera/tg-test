@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkkruzhochek"]=self["webpackChunkkruzhochek"]||[]).push([[872],{7872:function(n,r,e){e.r(r),e.d(r,{default:function(){return k}});var u=e(641);const c={class:"container"};function t(n,r){return(0,u.uX)(),(0,u.CE)("div",c," role ")}var o=e(6262);const s={},a=(0,o.A)(s,[["render",t]]);var k=a}}]);
+//# sourceMappingURL=872.9eaef227.js.map
